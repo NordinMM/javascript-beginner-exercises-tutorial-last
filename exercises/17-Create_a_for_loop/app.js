@@ -6,3 +6,4 @@ function standardsMaker() {
     console.log("I will write questions if I'm stuck");
   }
 }
+standardsMaker();
